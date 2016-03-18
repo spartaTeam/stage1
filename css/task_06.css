@@ -97,10 +97,7 @@ body {
 	text-decoration: underline;
 	line-height: 40px;
 }
-/*.banner .text .p1:first-letter,
-.banner .text .p2:first-letter {
-	font-size: 24px;
-}*/
+
 .banner .text .p3 {
 	font-size: 12px;
 	font-family: "楷体";
@@ -225,7 +222,7 @@ body {
 .content .info .title {
 	height: 158px;
 	border-bottom: 2px solid #11456b;
-	margin-bottom: 28px; 
+	margin-bottom: 32px; 
 
 }
 .content .info .title {
